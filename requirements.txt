@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+langchain-text-splitters
+langchain-openai
+llama-index
+llama-index-vector-stores-chroma
+chromadb
+pypdf
+python-dotenv
